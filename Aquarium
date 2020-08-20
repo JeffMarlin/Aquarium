@@ -49,8 +49,8 @@
             <tr>
                 <td></td>
                 <td>
-                <button id="btnCalcCost">Calculate Cost</button>
-                <button id="btnReset">Reset</button></td>
+                <input type="reset" value="Reset">
+        	<input type="submit" value="Submit">
             </tr>
         </table>
 		<p id="tdSurfaceArea"></p>
